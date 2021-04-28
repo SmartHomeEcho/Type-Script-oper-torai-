@@ -1,3 +1,3 @@
 # Type-Script-oper-torai-
-Type Sript operátorai Szoftverfejlesztői vizsgafeladat megoldása
+Type Script operátorai Szoftverfejlesztői vizsgafeladat megoldása
 
